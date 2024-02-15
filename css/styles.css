@@ -1,11 +1,15 @@
 .body {
 
-    font-family:"Roboto", sans-serif;
+    font-family:"Roboto", "sans-serif";
     color: #434455;
     background-color:#FFFFFF;
 
 }
 
+.span {
+
+    color:  #2e2f42;
+}
 
 .web-studio {
     font-family: "Raleway", sans-serif;
@@ -82,10 +86,16 @@
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-    
+}
+ 
+.contact-info {
+
+    font-style: normal;
+
+}
 
     
-}
+
 .button{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
@@ -93,8 +103,16 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #ffffff
+    color: #ffffff;
     cursor: pointer;
     
 
+}
+
+a:hover {
+    color: #404bbf;
+}
+
+a:focus {
+    color: #404bbf;
 }
