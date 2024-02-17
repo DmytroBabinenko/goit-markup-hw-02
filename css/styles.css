@@ -8,7 +8,7 @@
 
 #footer {
     background-color: #2e2f42;
-    
+
 }
 
 .span {
@@ -45,6 +45,9 @@
     color: #2e2f42;
 }
 
+.partlogo__studio_end {
+    color: #FFFFFF;  
+}
 
 
 .menu li a {
@@ -193,7 +196,7 @@ a:focus {
 }
 
 .devcast {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 .logoportfolio {
@@ -210,4 +213,14 @@ a:focus {
     letter-spacing: 0.02em;
     color: #434455 ;
 
+}
+.end{
+    background-color:#2e2f42;
+    
+}
+
+.endpage {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
