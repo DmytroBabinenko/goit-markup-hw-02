@@ -151,9 +151,11 @@ a:focus {
     color: #404bbf;
 }
 
-.studmenu:hover,
-.portmenu:hover,
-.contmenu:hover {
+.menu .studmenu:hover {
+    color: #404bbf;
+}
+
+.menu .studmenu:focus {
     color: #404bbf;
 }
 
