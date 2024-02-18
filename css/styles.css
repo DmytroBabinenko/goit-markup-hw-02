@@ -11,6 +11,18 @@ a:active {
     text-decoration: none;
 }
 
+.menu li:first-child a:hover,
+.menu li:first-child a:focus {
+    color: #404bbf;
+}
+
+.menu li:nth-child(2) a,
+.menu li:nth-child(3) a {
+    
+    color: #404bbf;
+}
+
+
 #footer {
     background-color: #2e2f42;
 
