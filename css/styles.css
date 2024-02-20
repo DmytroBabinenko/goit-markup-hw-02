@@ -163,6 +163,18 @@ a:focus {
     color: #404bbf;
 }
 
+.menu li:first-child a:focus {
+    color: #404bbf;
+}
+.menu li:nth-child(2):focus {
+    color: #404bbf;
+}
+.menu li:nth-child(3):focus {
+    color: #404bbf;
+}
+
+
+
 .featureshead {
 
     font-weight: 500;
