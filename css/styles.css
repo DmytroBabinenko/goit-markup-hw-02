@@ -153,7 +153,15 @@ a:focus {
 }
 
 
-
+.menu li:first-child a:hover {
+    color: #404bbf;
+}
+.menu li:nth-child(2):hover {
+    color: #404bbf;
+}
+.menu li:nth-child(3):hover {
+    color: #404bbf;
+}
 
 .featureshead {
 
@@ -172,7 +180,7 @@ a:focus {
     color: #434455;
 }
 
-.headh2 {
+.headhtwo {
     background-color: #F4F4FD;
     font-size: 36px;
     line-height: 1.11;
