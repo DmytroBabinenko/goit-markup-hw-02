@@ -130,6 +130,10 @@ button:focus {
     background-color: #404BBF;
 }
 
+button:hover {
+    background-color: #404BBF;
+}
+
 a:hover {
     color: #404bbf;
 }
