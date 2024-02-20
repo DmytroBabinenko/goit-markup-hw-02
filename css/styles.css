@@ -1,11 +1,27 @@
-.body {
-
-    font-family:"Roboto", sans-serif;
+body {
+    font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color:#FFFFFF;
+    background-color: #FFFFFF;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+}
+
+
+
+#footer {
+    background-color: #2e2f42;
 
 }
 
+span {
+
+    color:  #2e2f42;
+}
 
 .web-studio {
     font-family: "Raleway", sans-serif;
@@ -17,7 +33,9 @@
     color: #4d5ae5;
 }
 
-
+.web-studio:hover {
+    color: #404bbf;
+}
 
 
 .partlogo {
@@ -34,6 +52,9 @@
     color: #2e2f42;
 }
 
+.partlogo__studio_end {
+    color: #FFFFFF;  
+}
 
 
 .menu li a {
@@ -82,10 +103,16 @@
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-    
+}
+ 
+.contact-info {
+
+    font-style: normal;
+
+}
 
     
-}
+
 .button{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
@@ -93,8 +120,117 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #ffffff
+    color: #ffffff;
     cursor: pointer;
-    
+}
 
+button:hover {
+    background-color: #404BBF;
+
+}
+
+button:focus {
+    background-color: #404BBF;
+}
+
+a:hover {
+    color: #404bbf;
+}
+
+a:focus {
+    color: #404bbf;
+}
+
+.menu .studmenu:hover {
+    color: #404bbf;
+
+} 
+
+.menu .studmenu:focus {
+    color: #404bbf;
+
+}
+
+
+
+
+.featureshead {
+
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.featurestext{
+
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.headh2 {
+    background-color: #F4F4FD;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+
+
+}
+
+.secondsect {
+    background-color: #F4F4FD;
+
+}
+
+
+.headteam {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+}
+
+.teamtext {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.devcast {
+    background-color: #FFFFFF;
+}
+
+.logoportfolio {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.textthird {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455 ;
+
+}
+.end{
+    background-color:#2e2f42;
+    
+}
+
+.endpage {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
