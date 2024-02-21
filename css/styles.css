@@ -101,6 +101,16 @@ span {
     color: #404bbf;
 }
 
+.phone :hover {
+    color: #404bbf;
+ }
+ 
+ .phone :focus {
+ 
+     color: #404bbf;
+ }
+
+
 .contact-info li a:hover {
     color: #404bbf;
 }
