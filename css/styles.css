@@ -74,6 +74,15 @@ span {
     color: #404bbf;
 }
 
+.menu .studmenu:hover {
+    color: #404bbf;
+
+} 
+
+.menu .studmenu:focus {
+    color: #404bbf;
+
+}
 
 .contact-info li a {
     font-size: 16px;
@@ -81,6 +90,15 @@ span {
     letter-spacing: 0.02em;
     color: #434455;
     transition: color 0.3s ease;
+}
+
+.mail :hover {
+   color: #404bbf;
+}
+
+.mail :focus {
+
+    color: #404bbf;
 }
 
 .contact-info li a:hover {
@@ -142,36 +160,10 @@ a:focus {
     color: #404bbf;
 }
 
-.menu .studmenu:hover {
-    color: #404bbf;
-
-} 
-
-.menu .studmenu:focus {
-    color: #404bbf;
-
-}
 
 
-.menu li:first-child a:hover {
-    color: #404bbf;
-}
-.menu li:nth-child(2):hover {
-    color: #404bbf;
-}
-.menu li:nth-child(3):hover {
-    color: #404bbf;
-}
 
-.menu li:first-child a:focus {
-    color: #404bbf;
-}
-.menu li:nth-child(2):focus {
-    color: #404bbf;
-}
-.menu li:nth-child(3):focus {
-    color: #404bbf;
-}
+
 
 
 
