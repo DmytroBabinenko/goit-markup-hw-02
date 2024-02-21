@@ -63,23 +63,19 @@ span {
     transition: color 0.3s ease;
 }
 
-.menu li a:hover {
-    color: #404bbf;
+.studmenu:hover,
+.studmenu:focus {
+    color: #404BBF;
 }
 
-.menu li a:focus {
+.contacts :focus,
+.contacts :hover {
     color: #404bbf;
-}
+ }
+ 
 
-.menu .studmenu:hover {
-    color: #404bbf;
 
-} 
 
-.menu .studmenu:focus {
-    color: #404bbf;
-
-}
 
 .contact-info li a {
     font-size: 16px;
@@ -89,14 +85,7 @@ span {
     transition: color 0.3s ease;
 }
 
-.contact-info .contacts :hover {
-    color: #404bbf;
- }
- 
- .contact-info .contacts :focus {
- 
-     color: #404bbf;
- }
+
 
 
 
