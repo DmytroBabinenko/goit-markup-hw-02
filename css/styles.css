@@ -30,6 +30,9 @@ span {
 .web-studio:hover {
     color: #404bbf;
 }
+.web-studio:focus {
+    color: #404bbf;
+}
 
 
 .partlogo {
@@ -86,11 +89,11 @@ span {
     transition: color 0.3s ease;
 }
 
-.contacts :hover {
+.contact-info .contacts :hover {
     color: #404bbf;
  }
  
- .contacts :focus {
+ .contact-info .contacts :focus {
  
      color: #404bbf;
  }
