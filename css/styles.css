@@ -7,7 +7,6 @@ body {
 
 
 
-
 #footer {
     background-color: #2e2f42;
 
@@ -88,31 +87,16 @@ span {
 }
 
 .contacts :hover {
-   color: #404bbf;
-}
-
-.contacts :focus {
-
-    color: #404bbf;
-}
-
-.phone :hover {
     color: #404bbf;
  }
  
- .phone :focus {
+ .contacts :focus {
  
      color: #404bbf;
  }
 
 
-.contact-info li a:hover {
-    color: #404bbf;
-}
 
-.contact-info li a:focus {
-    color: #404bbf;
-}
 
 
 .top {
