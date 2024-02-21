@@ -87,11 +87,11 @@ span {
     transition: color 0.3s ease;
 }
 
-.mail :hover {
+.contacts :hover {
    color: #404bbf;
 }
 
-.mail :focus {
+.contacts :focus {
 
     color: #404bbf;
 }
